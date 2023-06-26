@@ -1,0 +1,15 @@
+/* this needs to be imported into the logosearch.jsx */
+
+.LogoSearch {
+    display: flex;
+    gap: 0.75rem;
+
+}
+
+.Search {
+    display:ruby;
+    /*background-color: var(--inputColor);*/
+    border-radius: 5px;
+    padding: 5px;
+
+}

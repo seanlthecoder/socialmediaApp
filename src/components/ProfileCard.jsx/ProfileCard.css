@@ -20,7 +20,7 @@
 
 }
 
-/* this is the first img tag so its the 'nth-of-type(1) */
+/* this is the first img tag so it's the 'nth-of-type(1) */
 .ProfileImages>img:nth-of-type(1) {
     width: 100%;
     border-radius: 20px;
